@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ejercicio7_8</string>
+
+    <string-array name="arraySpinner">
+        <item>SlashDat</item>
+        <item>New York Times</item>
+        <item>XatakaAndroid</item>
+    </string-array>
+
+    <string-array name="arrayUrl">
+        <item>http://dat.etsit.upm.es/?q=/rss/all</item>
+        <item>http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</item>
+        <item>http://feeds.weblogssl.com/xatakandroid</item>
+    </string-array>
+
+</resources>
